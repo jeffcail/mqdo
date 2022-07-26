@@ -20,6 +20,8 @@ RabbitMQ 是一个实现了高级消息队列协议（AMQP）的开源消息代�
 * Virtual Host 虚拟主机
 
 
+### 博客
+<a href="blog.caixiaoxin.cn/?p=712" target="_blank">博客</a>
 
 ### 官网
 
